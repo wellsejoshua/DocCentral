@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-DocCentral-425e10fd-4073-42ac-ac65-a6c5bfe1ea31</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	  <InvariantGlobalization>true</InvariantGlobalization>
     <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
